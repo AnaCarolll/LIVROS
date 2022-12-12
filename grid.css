@@ -1,0 +1,89 @@
+html, body{
+
+background: url(https://i.pinimg.com/564x/84/47/07/844707763e75f6873dbab5ad05927ed2.jpg);
+
+}
+
+.container1{
+ display: grid;
+}
+
+.cor4{
+    background: black;
+    height: 100px;
+  margin-bottom: 40px;
+} 
+.titulo{
+    color:antiquewhite ;
+    text-align: center;
+    font-family: 'Shadows Into Light', cursive;
+    margin-top: 15px ;
+    font-size: 20px;
+}
+
+.subTitulo{
+   margin-left: 490px;
+  
+   color: aliceblue;
+    text-decoration: none;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 16px;
+}
+.subTitulo:hover{
+    color: #BE7656;
+}
+
+
+  .container2{
+ display: grid;
+ grid-template-columns: 1fr 1fr;
+ grid-gap: 8vh;
+
+ }
+footer{
+    background-color:#BE7656 ;
+    height: 90px;
+    transition: background-color .7s;
+    border-radius: 6px;
+  
+}
+main{
+    background-color:#BE7656;
+    height: 90px;
+    border-radius: 6px;
+}
+aside{
+    background-color: #BE7656;
+    height: 90px;
+    border-radius: 6px;
+}
+
+.cor1{
+    background-color: #BE7656;
+    height: 90px;
+    border-radius: 6px;
+}
+
+.cor2{
+    background-color: #BE7656;
+    height: 90px;
+    border-radius: 6px;
+}
+
+.cor3{
+    background-color: #BE7656;
+    height: 90px;
+    border-radius: 6px;
+}
+
+
+ 
+
+footer:hover{
+background-color: black;
+}
+
+
+
+
+
