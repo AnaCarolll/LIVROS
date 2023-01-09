@@ -1,0 +1,27 @@
+{
+  "name": "livros",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+   "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnaCarolll/LIVROS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnaCarolll/LIVROS/issues"
+  },
+  "homepage": "https://github.com/AnaCarolll/LIVROS#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  },
+  
+    "type": "module"
+  
+}
