@@ -4,7 +4,7 @@ background: url(https://i.pinimg.com/564x/84/47/07/844707763e75f6873dbab5ad05927
 
 }
 
-.container1{
+.introducao{
  display: grid;
 }
 
@@ -121,7 +121,7 @@ background: url(https://i.pinimg.com/564x/84/47/07/844707763e75f6873dbab5ad05927
     font-family: 'Shadows Into Light', cursive;
     background-color: rgb(184, 184, 184);
     border-radius: 7px;
- margin-top: 40px;
+    margin-top: 40px;
     
 }
 
